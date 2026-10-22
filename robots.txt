@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sumengyuan91-max.github.io/nibble-quest-website/sitemap.xml
